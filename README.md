@@ -51,7 +51,7 @@ CAMINHO_PASTA=C:/Users/seu_usuario/Downloads
 Com o `.env` configurado, basta executar:
 
 ```bash
-python organizador_arquivos.py
+python main.py
 ```
 
 O script vai:
